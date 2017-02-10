@@ -1,0 +1,22 @@
+{
+  "name": "dersam/claptrap-sample",
+  "description": "Test site for claptrap",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sam Schmidt",
+      "email": "samuel@dersam.net"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:dersam/claptrap.git"
+    }
+  ],
+  "require": {
+    "php": "^7.1.0",
+    "dersam/claptrap": "dev-master@dev"
+  }
+}
