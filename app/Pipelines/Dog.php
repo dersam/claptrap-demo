@@ -1,7 +1,9 @@
 <?php
 declare(strict_types = 1);
-namespace Dersam;
+namespace App\Pipelines;
 
+use App\Pipes\Doggo;
+use App\Pipes\HeadDoggo;
 use Claptrap\Pipeline;
 
 /**

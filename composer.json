@@ -18,5 +18,10 @@
   "require": {
     "php": "^7.1.0",
     "dersam/claptrap": "dev-master@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
   }
 }

@@ -1,6 +1,6 @@
 <?php
 declare(strict_types = 1);
-namespace Dersam;
+namespace App\Pipes;
 
 use Claptrap\Http\Request;
 use Claptrap\Http\Response;

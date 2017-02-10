@@ -12,7 +12,7 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:dersam/claptrap.git",
-                "reference": "b1da117aae2b0340142e1b9b45dc997337b2c229"
+                "reference": "7c1f6d1a427139aeb227260941896480961a825a"
             },
             "require": {
                 "nikic/fast-route": "^1.2",
@@ -38,7 +38,7 @@
                 }
             ],
             "description": "some crazy nonsense",
-            "time": "2017-02-10 02:11:15"
+            "time": "2017-02-10 03:50:00"
         },
         {
             "name": "nikic/fast-route",
